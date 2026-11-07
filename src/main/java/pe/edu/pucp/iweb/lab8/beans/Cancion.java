@@ -7,7 +7,7 @@ public class Cancion {
     private String artista;
     private int duracionSeg;
     private int anio;
-    private Genero genero; // bean como atributo de otro bean
+    private Genero genero;
 
     public int getIdCancion() {
         return idCancion;
